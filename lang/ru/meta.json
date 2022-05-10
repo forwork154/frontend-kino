@@ -1,0 +1,28 @@
+{
+  "DEFAULT": {
+    "TITLE": "Сайт",
+    "DESCRIPTION": "Веб-сайт",
+    "KEYWORDS": ""
+  },
+  "HOME": {
+    "TITLE": "Главная страница",
+    "DESCRIPTION": "Главная страница",
+    "KEYWORDS": ""
+  },
+  "ERROR": {
+    "TITLE": "Ошибка",
+    "DESCRIPTION": "Ошибка"
+  },
+  "NOT_FOUND": {
+    "TITLE": "Страница не найдена",
+    "DESCRIPTION": "Страница не найдена"
+  },
+  "ACCESS_DENIED": {
+    "TITLE": "Доступ запрещён",
+    "DESCRIPTION": "Доступ к этой странице запрещён"
+  },
+  "SERVER_ERROR": {
+    "TITLE": "Ошибка сервера",
+    "DESCRIPTION": "Ошибка сервера"
+  }
+}
